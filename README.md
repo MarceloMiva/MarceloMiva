@@ -69,7 +69,7 @@
 
 ---
 
-### 🔐 YSIM — Your Secret Is Mine(https://github.com/MarceloMiva/YSIM)
+### [🔐 YSIM — Your Secret Is Mine](https://github.com/MarceloMiva/YSIM)
 > Self-destructing encrypted messaging web app
 - AES-256-GCM · XOR · Vigenère ciphers
 - Claude-powered AI assistant · Node.js backend

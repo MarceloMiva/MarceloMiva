@@ -78,12 +78,6 @@
 https://ysim.onrender.com
 ---
 
-## 📊 GitHub Stats
-
-![MarceloMiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloMiva&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMiva&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
-
 ---
 
 ## 🏅 Certifications & Learning

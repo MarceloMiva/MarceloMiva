@@ -1,6 +1,6 @@
 # Hey, I'm Fashipe Oluwadamilare Ayoola 👋
 
-> **CS/Cybersecurity Student · Cloud Admin Intern · Security Tool Developer**
+> **Cybersecurity Student · Cloud Admin Intern · Security Tool Developer**
 
 ```
   ┌─────────────────────────────────────────────────────┐
@@ -13,10 +13,11 @@
 
 ## 🧠 About Me
 
-- 🎓 **CS/Cybersecurity** student at **MIVA Open University**
+- 🎓 **Cybersecurity** student at **MIVA Open University**
 - ☁️ **Cloud Administrator Intern** at **Pintop Technologies Limited**, Lagos
 - 🛡️ Passionate about **penetration testing**, **digital forensics**, and **cryptography**
 - 🏆 CTF competitor | Tool developer | Media Team Manager
+- **Portfolio** marcelomiva.github.io
 - 📍 Lagos, Nigeria
 
 ---

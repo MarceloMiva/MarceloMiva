@@ -17,7 +17,7 @@
 - ☁️ **Cloud Administrator Intern** at **Pintop Technologies Limited**, Lagos
 - 🛡️ Passionate about **penetration testing**, **digital forensics**, and **cryptography**
 - 🏆 CTF competitor | Tool developer | Media Team Manager
-- **Portfolio** marcelomiva.github.io
+- [**Portfolio**](marcelomiva.github.io)
 - 📍 Lagos, Nigeria
 
 ---
